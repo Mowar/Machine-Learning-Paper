@@ -1,9 +1,9 @@
 # Machine-Learning-Paper #
 
-|论文名|阅读|
-|---|---|
-
 ## Recommended-System ##
+
+|论文名|阅读|
+|-----|-----|
 
 **Factorization Machines**  ok
 
@@ -12,6 +12,9 @@
 **DeepFM A Factorization-Machine based Neural Network for CTR Prediction** ok
 
 ## Gradient-Boosting ##
+
+|论文名|阅读|
+|----|----|
 
 **Greedy function approximation a gradient boosting machine** ok
 
@@ -22,3 +25,16 @@
 **XGBoost A Scalable Tree Boosting System**
 
 **XGBoost Reliable Large-scale Tree Boosting System** ok
+
+## Search-Ranking ##
+
+|论文名|阅读|
+|----|----|
+
+**Adapting Boosting for Information Retrieval Measures**
+
+**LambdaRank to LambdaMART An Overview**   未读完
+
+**Learning to Rank using Gradient Descent**  未读完
+
+**learning to rank with nonsmooth cost functions**
