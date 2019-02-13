@@ -43,3 +43,13 @@
 **Highway Networks**
 
 **Training Very Deep Networks**
+
+**Parameter estimation for text analysis**
+
+**Markov Decision Processes in Artificial Intelligence**
+
+**LDA数学八卦**
+
+**Digital Image Processing**
+
+**Distributed Gibbs Sampling of Latent Topic Models The Gritty Details**
