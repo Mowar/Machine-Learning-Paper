@@ -18,3 +18,9 @@
 **Wide & Deep Learning for Recommender Systems** (WDL) ok
 
 **Neural Factorization Machines for Sparse Predictive Analytic** (NFM) ok
+
+**Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks** (AFM)
+
+**Deep Interest Network for Click-Through Rate Prediction** (DIN)
+
+**Deep & Cross Network for Ad Click Predictions** (DCN)
