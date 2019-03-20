@@ -21,7 +21,7 @@
 
 **Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks** (AFM) ok
 
-**Deep Interest Network for Click-Through Rate Prediction** (DIN)
+**Deep Interest Network for Click-Through Rate Prediction** (DIN) ok
 
 **Deep & Cross Network for Ad Click Predictions** (DCN)
 
