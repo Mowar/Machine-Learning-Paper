@@ -23,11 +23,11 @@
 
 **Deep Interest Network for Click-Through Rate Prediction** (DIN) ok
 
-**Deep & Cross Network for Ad Click Predictions** (DCN)
+**Deep & Cross Network for Ad Click Predictions** (DCN) ok
 
-**Neural Collaborative Filtering** (NCF)
+**Neural Collaborative Filtering** (NCF) ok
 
-**CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems** (CCCFNet)
+**CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems** (CCCFNet) ok
 
 **Joint Deep Modeling of Users and Items Using Reviews for Recommendation** (DeepCoNN)
 
