@@ -29,8 +29,8 @@
 
 **CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems** (CCCFNet) ok
 
-**Joint Deep Modeling of Users and Items Using Reviews for Recommendation** (DeepCoNN)
+**Joint Deep Modeling of Users and Items Using Reviews for Recommendation** (DeepCoNN) ok
 
-**Convolutional Matrix Factorization for Document Context-Aware Recommendation** (ConvMF)
+**Convolutional Matrix Factorization for Document Context-Aware Recommendation** (ConvMF) ok
 
-**Recurrent Recommender Networks** (RRN)
+**Recurrent Recommender Networks** (RRN) ok
